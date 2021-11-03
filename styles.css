@@ -98,7 +98,7 @@ h1 {
   width: 100%;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 500px) {
   body {
     overflow: auto;
     background-image: url(images/pattern-background-mobile.svg);
